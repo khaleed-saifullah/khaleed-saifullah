@@ -1,4 +1,4 @@
-![Front-end-developer](https://github.com/khaleed-saifullah/khaleed-saifullah/blob/master/banner.webp)
+![Front-end-developer](https://github.com/khaleed-saifullah/khaleed-saifullah/blob/master/Github-Profile.jpg)
 
 ### Khaleed Saifullah Nayem
 #### Front-end-designer
