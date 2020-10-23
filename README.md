@@ -3,7 +3,7 @@
 ### Khaleed Saifullah Nayem
 #### Front-end-designer
 
-Hello! This is Khaleed. I was a front-end-designer in a software company. I am an expert in web designing. I have experience in designing websites both static and dynamic. My core experience lies both in front-end design and WordPress platform using Photoshop, HTML5, CSS3, BOOTSTRAP 4, SASS, jQuery.
+Hello! This is Khaleed. I worked as a front-end-designer in a software company. I am an expert in web designing. I have experience in designing websites both static and dynamic. My core experience lies both in front-end design and WordPress platform using Photoshop, HTML5, CSS3, BOOTSTRAP 4, SASS, jQuery.
 
 ## Skills
 * :computer: HTML , CSS , Bootstrap , Sass
