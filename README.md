@@ -6,10 +6,9 @@
 ### <div align="center">Software Developer💻</div>  
   
 
-- 🔭 I’m currently working on a software company as a software developer  
-  
-
-- 🌱 I’m currently learning on back end technology (Node JS, Express JS , MySQL)  
+- I’m currently working for a software company as a software developer
+- Good skill in Front-end & basic knowledge of Back-end
+- I’m currently enriching my knowledge on React.
   
 
 <br/>  
