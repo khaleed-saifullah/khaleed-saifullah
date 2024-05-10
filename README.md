@@ -1,4 +1,4 @@
-![Front-end-developer](https://github.com/khaleed-saifullah/khaleed-saifullah/blob/master/bannner2.jpg)
+![Front-end-developer](https://github.com/khaleed-saifullah/khaleed-saifullah/blob/master/banner2.jpg)
 
 # **<div align="center">Hello ! I'm Khaleed</div>**  
   
